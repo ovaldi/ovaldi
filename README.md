@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🏠 I’m currently working from home
-- 📖 I’m currently learning `K8s`
+- 📖 I’m currently learning `AI`
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovaldi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats
